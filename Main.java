@@ -1,7 +1,10 @@
 public class Main {
+    
+    
+    
     public static void main(String[] args){
+        
         System.out.println("Hello, World");
-	System.out.println("Dodana nova linija");
-        System.out.println("rjesavanje konflikta");
-	}
+	System.out.println("Dodana nova linija")
+    }
 }
